@@ -17,7 +17,7 @@ Installing the plugin
 Running the plugin
 1. Open Cytoscape.
 2. From the menu list select:
-Apps -> BioPAXViz Ver 1.0 (Simple app)
+   Apps -> BioPAXViz Ver 1.0 (Simple app)
 3. From the pop-up window that will come up select a directory that contains a tree file and a list of BioPAX files, that contain information about the presence/absence of the pathway and of the proteins within the pathway. You can get sample files from the folder sample in project.
 4. Hit the 'Display pathway' button!
 
@@ -25,7 +25,7 @@ Apps -> BioPAXViz Ver 1.0 (Simple app)
 Usage notes
 * You can select any node from the tree structure and see the instance of the reference pathway for the selected node/organism. 
 * The tree structure is shown in the smaller window at the top left corner of the main window by default and it is resizable and movable at any location in the Cytoscape window. If you dismiss this window in the background you can always bring it back to the front by hitting the 'Space' button in the keyboard.
-* The <i>presence</i> property is denoted by the <b>orange</b> color while the <i>absence</i> property is denoted by the <b>purple</b> color!
+* The presence property is denoted by the orange color while the <i>absence</i> property is denoted by the <b>purple</b> color!
 * In case you need to display a single BioPAX file, when the pop-up window is displayed at first you have to enable the 'Select file' radio-button option and then choose a specific BioPAX file (.owl extension) from the File-chooser window.
 
 
