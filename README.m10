@@ -8,7 +8,8 @@ Requirements
 * Cytoscape (verified to work in v.3.3)
 
 Development Platform
-*Biopax.Viz.SimpleApp has been developed on Eclipse Luna using the Cytoscape (ver3) simple application development model.
+  Biopax.Viz.SimpleApp has been developed on Eclipse Luna using the Cytoscape (ver3) simple application 
+  development model.
 
 Installing the plugin
 1. Open Cytoscape. 
@@ -20,20 +21,23 @@ Running the plugin
 1. Open Cytoscape.
 2. From the menu list select:
    Apps -> BioPAXViz Ver 1.0 (Simple app)
-3. From the pop-up window that will come up select a directory that contains a tree file and a list of BioPAX files, 
-   that contain information about the presence/absence of the pathway and of the proteins within the pathway. 
-   You can get sample files from the folder sample in project.
+3. From the pop-up window that will come up select a directory that contains a tree file and a list of 
+   BioPAX files, that contain information about the presence/absence of the pathway and of the proteins
+   within the pathway. You can get sample files from the folder sample in project.
 4. Hit the 'Display pathway' button!
 
 
 Usage notes
-* You can select any node from the tree structure and see the instance of the reference pathway for the selected node/organism. 
-* The tree structure is shown in the smaller window at the top left corner of the main window by default and it is resizable and 
-   movable at any location in the Cytoscape window. If you dismiss this window in the background you can always bring it back to 
-   the front by hitting the 'Space' button in the keyboard.
-* The presence property is denoted by the orange color while the absence property is denoted by the purple color!
-* In case you need to display a single BioPAX file, when the pop-up window is displayed at first you have to enable the 
-  'Select file' radio-button option and then choose a specific BioPAX file (.owl extension) from the File-chooser window.
+* You can select any node from the tree structure and see the instance of the reference pathway for the 
+  selected node/organism. 
+* The tree structure is shown in the smaller window at the top left corner of the main window by default 
+  and it is resizable and movable at any location in the Cytoscape window. If you dismiss this window in 
+  the background you can always bring it back to the front by hitting the 'Space' button in the keyboard.
+* The presence property is denoted by the orange color while the absence property is denoted by the 
+  purple color!
+* In case you need to display a single BioPAX file, when the pop-up window is displayed at first you have
+  to enable the 'Select file' radio-button option and then choose a specific BioPAX file (.owl extension)
+  from the File-chooser window.
 
 
 Copyright (c) 2016 CERTH
